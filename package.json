@@ -1,0 +1,11 @@
+{
+  "name": "logsib",
+  "version": "1.0.0",
+  "description": "Logs in Big",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Audelio Lujan",
+  "license": "ISC"
+}
