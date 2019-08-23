@@ -1,0 +1,24 @@
+LogsIB = Logs In Big
+====================
+
+Is just a fun console tool to make biger text in console.
+
+Then plan is just import the package an use his log function 
+and let the magic begin :smile:.
+
+  ```javascript
+
+    const { log } = require('logsib')
+
+    let str = 'Logs In Big :)'
+
+    log(str, k => console.log(k))
+
+  ```
+
+Log function require 2 params, str as the string to tranform
+and the callback function to do watever you want.
+We have a tird parameter that tell the max size of characters in screen,
+by default the value is set as 20 but you can play with this.
+
+If you wich to make this package better in any way just send a PR :thumbsup:
