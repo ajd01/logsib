@@ -8,6 +8,10 @@ Then plan is just import the package an use his log function
 and let the magic begin :smile:.
 
   ```javascript
+    npm i --save logsib
+  ```
+  
+  ```javascript
 
     const { log } = require('logsib')
 
